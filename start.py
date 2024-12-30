@@ -1,5 +1,8 @@
-a=  10 
-b = 20 
-c = a  + b  # supposed to be 30  
-print(c)  
+'''
+// here we are discussing the idea of loops in Python  
+'''
+
+number1  = int(input("Enter the first number? "))
+number2 = int(input("Enter the second number? "))
+print(number1 + number2 ,end="") 
 
